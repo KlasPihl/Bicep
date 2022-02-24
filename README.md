@@ -7,7 +7,7 @@ Modules and snippets
 Generates a alphanumeric password of desired length.
 
 #### Param
-```json
+```arm
 param PasswordLength int = 16
 param location string = 'northeurope'
 ```
